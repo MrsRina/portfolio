@@ -1,0 +1,1771 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"set_he",
+				"set_header_new_index"
+			],
+			[
+				"draw",
+				"draw_mode"
+			],
+			[
+				"uint",
+				"uint16_t"
+			],
+			[
+				"pressed_",
+				"pressed_select_many"
+			],
+			[
+				"pressed_sele",
+				"pressed_select_many"
+			],
+			[
+				"synclayout_",
+				"synclayout_widget_list"
+			],
+			[
+				"abstr",
+				"abstract_widget"
+			],
+			[
+				"reload_wi",
+				"reload_widget_list"
+			],
+			[
+				"reload",
+				"reload_widget_list"
+			],
+			[
+				"reload_wid",
+				"reload_widget_list"
+			],
+			[
+				"show",
+				"showcase_useless_window"
+			],
+			[
+				"end_",
+				"end_group_parent_flag"
+			],
+			[
+				"pop",
+				"pop_group_parent"
+			],
+			[
+				"pop_gr",
+				"pop_group_parent"
+			],
+			[
+				"sync_",
+				"sync_ui"
+			],
+			[
+				"pressed",
+				"pressed_select"
+			],
+			[
+				"labor",
+				"laboratory_testing"
+			],
+			[
+				"wasf",
+				"was_last_fill_found"
+			],
+			[
+				"UINT32_",
+				"UINT32_MAX"
+			],
+			[
+				"was_",
+				"was_last_fill_found"
+			],
+			[
+				"begin",
+				"begin_and_count"
+			],
+			[
+				"unsafe_",
+				"unsafe_sync_ui"
+			],
+			[
+				"unsafe",
+				"unsafe_sync_ui"
+			],
+			[
+				"set",
+				"set_y"
+			],
+			[
+				"sync",
+				"ui_sync"
+			],
+			[
+				"flag",
+				"sync_flags"
+			],
+			[
+				"is",
+				"is_auto_initial_dimension"
+			],
+			[
+				"is_a",
+				"is_auto_initial_dimension"
+			],
+			[
+				"text",
+				"text_height"
+			],
+			[
+				"must_set",
+				"must_set_y"
+			],
+			[
+				"abs",
+				"abstract_widget"
+			],
+			[
+				"ekg_bit",
+				"ekg_bitwise_contains"
+			],
+			[
+				"corner_Bott",
+				"corner_bottom_right"
+			],
+			[
+				"an",
+				"any"
+			],
+			[
+				"list",
+				"listbox_widget"
+			],
+			[
+				"listbox",
+				"listbox_widget"
+			],
+			[
+				"listbo",
+				"listbox_widget"
+			],
+			[
+				"sta",
+				"static_cast"
+			],
+			[
+				"int3",
+				"int32_t"
+			],
+			[
+				"p_wid",
+				"p_widget_parent"
+			],
+			[
+				"p_widget",
+				"p_widget_parent"
+			],
+			[
+				"cornr",
+				"corner_top_right"
+			],
+			[
+				"count",
+				"begin_and_count"
+			],
+			[
+				"flag_o",
+				"flag_ok_count"
+			],
+			[
+				"right",
+				"right_container_width"
+			],
+			[
+				"dime",
+				"dimensional_extent"
+			],
+			[
+				"dimens",
+				"dimensional_extent"
+			],
+			[
+				"labo",
+				"laboratory_testing"
+			],
+			[
+				"string",
+				"string_view"
+			],
+			[
+				"GL_",
+				"GL_REPEAT"
+			],
+			[
+				"inputrele",
+				"input_released_list"
+			],
+			[
+				"lay",
+				"layout_mask"
+			],
+			[
+				"dock",
+				"dock_rect"
+			],
+			[
+				"dimen",
+				"dimension_bind"
+			],
+			[
+				"dimne",
+				"dimension_bind"
+			],
+			[
+				"uint16",
+				"uint16_t"
+			],
+			[
+				"get_",
+				"get_mode"
+			],
+			[
+				"horiz",
+				"rect_horizontal_scroll_bar"
+			],
+			[
+				"lab",
+				"laboratory_testing"
+			],
+			[
+				"update",
+				"update_widget_list"
+			],
+			[
+				"p_w",
+				"p_widget_focused"
+			],
+			[
+				"end",
+				"endl"
+			],
+			[
+				"slider_bar",
+				"slider_bar_outline"
+			],
+			[
+				"ex",
+				"extent_t"
+			],
+			[
+				"extent",
+				"extent_t"
+			],
+			[
+				"flag_ok",
+				"flag_ok_count"
+			],
+			[
+				"set_tex",
+				"set_text_align"
+			],
+			[
+				"dimensio",
+				"dimension_width"
+			],
+			[
+				"corner",
+				"center_right_corner"
+			],
+			[
+				"is_",
+				"is_right"
+			],
+			[
+				"dimension",
+				"dimension_height"
+			],
+			[
+				"center_c",
+				"center_right_corner"
+			],
+			[
+				"center",
+				"center_left_corner"
+			],
+			[
+				"frame",
+				"frame_outline"
+			],
+			[
+				"strinig",
+				"string_float_precision"
+			],
+			[
+				"slider",
+				"slider_string"
+			],
+			[
+				"rpe",
+				"respective_all"
+			],
+			[
+				"empla",
+				"emplace_back"
+			],
+			[
+				"em",
+				"emplace_back"
+			],
+			[
+				"range",
+				"range_t"
+			],
+			[
+				"rnage",
+				"range_list"
+			],
+			[
+				"rang",
+				"range_t"
+			],
+			[
+				"p_",
+				"p_ui"
+			],
+			[
+				"dis",
+				"dispatch_precision"
+			],
+			[
+				"cur",
+				"current_theme_scheme"
+			],
+			[
+				"trac",
+				"tracked"
+			],
+			[
+				"resp",
+				"respective_all"
+			],
+			[
+				"rec",
+				"rect_text"
+			],
+			[
+				"get",
+				"get_text_width"
+			],
+			[
+				"re",
+				"rect_text"
+			],
+			[
+				"smal",
+				"small_f_renderer"
+			],
+			[
+				"UIN",
+				"UINT8_MAX"
+			],
+			[
+				"UINT",
+				"UINT8_MAX"
+			],
+			[
+				"Slider",
+				"slider_widget_get_value_label"
+			],
+			[
+				"slider_",
+				"slider_widget_get_value_label"
+			],
+			[
+				"text_",
+				"text_align_flags"
+			],
+			[
+				"reset",
+				"reset_ownership"
+			],
+			[
+				"seria",
+				"serialized_range"
+			],
+			[
+				"p",
+				"p_tag"
+			],
+			[
+				"emplace",
+				"emplace_back"
+			],
+			[
+				"ran",
+				"range_t"
+			],
+			[
+				"range_li",
+				"range_list_size"
+			],
+			[
+				"relatve",
+				"relative_rect"
+			],
+			[
+				"theme",
+				"theme_scheme"
+			],
+			[
+				"slider_wid",
+				"slider_widget_calculate_target_pos"
+			],
+			[
+				"slid",
+				"slider_widget_get_range_count"
+			],
+			[
+				"sli",
+				"slider_widget"
+			],
+			[
+				"UINT64",
+				"UINT64_MAX"
+			],
+			[
+				"coll",
+				"rect_collide_vec"
+			],
+			[
+				"valiu",
+				"value_list_size"
+			],
+			[
+				"li",
+				"slider_widget_get_range_count"
+			],
+			[
+				"theme_",
+				"theme_scheme"
+			],
+			[
+				"relati",
+				"relative_rect"
+			],
+			[
+				"value",
+				"value_list_size"
+			],
+			[
+				"slier",
+				"slider_widget_get_range_count"
+			],
+			[
+				"float",
+				"float64"
+			],
+			[
+				"type",
+				"typeinfo"
+			],
+			[
+				"sliderw",
+				"slider_widget_get_range_count"
+			],
+			[
+				"val",
+				"value_list"
+			],
+			[
+				"mes",
+				"message_gui"
+			],
+			[
+				"emplac",
+				"emplace_back"
+			],
+			[
+				"u",
+				"util/"
+			],
+			[
+				"empl",
+				"emplace_back"
+			],
+			[
+				"light",
+				"light_pinky_theme_scheme"
+			],
+			[
+				"them",
+				"theme_switch_listbox"
+			],
+			[
+				"the",
+				"current_theme_scheme"
+			],
+			[
+				"cu",
+				"current_theme_scheme"
+			],
+			[
+				"curr",
+				"current_theme_scheme"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Linux Build-&-Test",
+					""
+				],
+				[
+					"Windows Build-&-Test",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Linux Build-&-Test",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Linux Build-&-Test Clang",
+					""
+				],
+				[
+					"Linux Build-&-Test GNU",
+					""
+				],
+				[
+					"Windows Build-&-Test",
+					""
+				]
+			],
+			[
+				"Linux Build-&-Test Clang",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"colrosc",
+				"UI: Select Color Scheme"
+			],
+			[
+				"setting",
+				"Preferences: Settings"
+			],
+			[
+				"colorsc",
+				"UI: Select Color Scheme"
+			],
+			[
+				"color",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"filc",
+				"File: Close All"
+			],
+			[
+				"filo",
+				"File: Close All"
+			],
+			[
+				"filoc",
+				"File: Close All"
+			],
+			[
+				"COLORSC",
+				"UI: Select Color Scheme"
+			],
+			[
+				"colorsche",
+				"UI: Select Color Scheme"
+			],
+			[
+				"PACKAINS",
+				"Package Control: Install Package"
+			],
+			[
+				"colorscheme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"packain",
+				"Package Control: Install Package"
+			],
+			[
+				"packains",
+				"Package Control: Install Package"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"SETTING",
+				"Preferences: Settings"
+			],
+			[
+				"lsp-cl",
+				"Preferences: LSP-clangd Settings"
+			],
+			[
+				"lspsetting",
+				"Preferences: LSP Settings"
+			],
+			[
+				"colro",
+				"UI: Select Color Scheme"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"settin",
+				"Preferences: Settings"
+			],
+			[
+				"termina",
+				"Terminus: Close All"
+			],
+			[
+				"fil",
+				"File: Close All"
+			],
+			[
+				"markd",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"makrdo",
+				"Markdown Preview: Copy to Clipboard"
+			],
+			[
+				"filco",
+				"File: Close All"
+			],
+			[
+				"colo",
+				"UI: Select Color Scheme"
+			],
+			[
+				"colos",
+				"UI: Select Color Scheme"
+			],
+			[
+				"packais",
+				"Package Control: Install Package"
+			],
+			[
+				"setc",
+				"Set Syntax: C++"
+			],
+			[
+				"packebn",
+				"Package Control: Enable Package"
+			],
+			[
+				"packadi",
+				"Package Control: Disable Package"
+			],
+			[
+				"packadis",
+				"Package Control: Disable Package"
+			],
+			[
+				"setsyntax: c++",
+				"Set Syntax: C++"
+			],
+			[
+				"fi",
+				"File: Close All"
+			],
+			[
+				"filclo",
+				"File: Close All"
+			],
+			[
+				"keybin",
+				"Preferences: Key Bindings"
+			],
+			[
+				"listapk",
+				"Package Control: List Packages"
+			],
+			[
+				"setsyntaxc++",
+				"Set Syntax: C++"
+			],
+			[
+				"set syntax c++",
+				"Set Syntax: C++"
+			],
+			[
+				"colors",
+				"UI: Select Color Scheme"
+			],
+			[
+				"fio",
+				"File: Close All"
+			],
+			[
+				"COLROSC",
+				"Conditional ColorSchemes:   Edit Settings"
+			],
+			[
+				"olor",
+				"UI: Select Color Scheme"
+			],
+			[
+				"file",
+				"File: Close All"
+			],
+			[
+				"setxc++",
+				"Set Syntax: C++"
+			],
+			[
+				"settiing",
+				"Set Syntax: Git Ignore"
+			],
+			[
+				"inspac",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"filecl",
+				"File: Close All"
+			],
+			[
+				"package disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"packageen",
+				"Package Control: Enable Package"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"colorse",
+				"UI: Select Color Scheme"
+			],
+			[
+				"coclor",
+				"UI: Customize Color Scheme"
+			],
+			[
+				"col",
+				"UI: Select Color Scheme"
+			],
+			[
+				"selectcolor",
+				"UI: Select Color Scheme"
+			],
+			[
+				"setcolor",
+				"UI: Select Color Scheme"
+			],
+			[
+				"coloor",
+				"Conditional ColorSchemes:   Edit Settings"
+			],
+			[
+				"packagelist",
+				"Package Control: List Packages"
+			],
+			[
+				"mouse",
+				"Preferences: Mouse Bindings"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"COLOR",
+				"UI: Select Color Scheme"
+			],
+			[
+				"close",
+				"File: Close All"
+			],
+			[
+				"pacakgeins",
+				"Package Control: Install Package"
+			],
+			[
+				"packagecontrolcac",
+				"Package Control: Clear Cache Directory"
+			],
+			[
+				"package remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"package lis",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"packageins",
+				"Package Control: Install Package"
+			],
+			[
+				"packageinstal",
+				"Package Control: Install Package"
+			],
+			[
+				"packagelis",
+				"Package Control: List Packages"
+			],
+			[
+				"colr",
+				"UI: Select Color Scheme"
+			],
+			[
+				"colort",
+				"Package Control: Remove Repository"
+			],
+			[
+				"pakcns",
+				"Package Control: Satisfy Libraries"
+			],
+			[
+				"markdo",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"temrina",
+				"Terminus: Close All"
+			],
+			[
+				"clangd",
+				"Preferences: LSP-clangd Settings"
+			],
+			[
+				"lsp",
+				"Preferences: LSP Settings"
+			],
+			[
+				"lspclang",
+				"Preferences: LSP-clangd Settings"
+			],
+			[
+				"lspsettin",
+				"Preferences: LSP Settings"
+			],
+			[
+				"lspsettn",
+				"Preferences: LSP-clangd Settings"
+			],
+			[
+				"lspcl",
+				"Preferences: LSP-clangd Settings"
+			],
+			[
+				"lspset",
+				"Preferences: LSP Settings"
+			],
+			[
+				"fileclo",
+				"File: Close All"
+			],
+			[
+				"lspc",
+				"Preferences: LSP-clangd Settings"
+			],
+			[
+				"lspclg",
+				"Preferences: LSP-clangd Settings"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"packageinst",
+				"Package Control: Install Package"
+			],
+			[
+				"packlains",
+				"Package Control: Install Package"
+			],
+			[
+				"cmake",
+				"Set Syntax: CMake"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 696.0,
+		"history":
+		[
+			"quit",
+			"clear",
+			"help",
+			"show_commands"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/rina/Documents/personal/portfolio"
+	],
+	"file_history":
+	[
+		"/home/rina/Documents/vokegpu/ekg-ui-library/src/ekg.cpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/src/draw/draw.cpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/src/gpu/allocator.cpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/include/ekg/gpu/allocator.hpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/include/ekg/draw/draw.hpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/src/ui/slider/ui_slider_widget.cpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/src/util/geometry.cpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/include/ekg/util/geometry.hpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/src/ui/popup/ui_popup_widget.cpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/src/ui/popup/ui_popup.cpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/devlog/commit.txt",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/include/ekg/ui/abstract/ui_abstract_widget.hpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/include/ekg/ui/listbox/ui_listbox_widget.hpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/src/ui/listbox/ui_listbox_widget.cpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/test/src/ekg_gui_showcase_test.cpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/test/autogui/auto_gui_main.py",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/src/core/runtime.cpp",
+		"/home/rina/Desktop/elden-ring-pvp.sh",
+		"/home/rina/Desktop/eldenring.sh",
+		"/home/rina/Desktop/eldenring-launch-options-cache.sh",
+		"/home/rina/Desktop/er-launch-options-cache.sh",
+		"/home/rina/.var/app/com.valvesoftware.Steam/data/Steam/steamapps/common/ELDEN RING/Game/mod/Seamless/ersc_settings.ini",
+		"/home/rina/.var/app/com.valvesoftware.Steam/data/Steam/steamapps/common/ELDEN RING/Game/base/logs/modengine_2024-12-22.log",
+		"/home/rina/.var/app/com.valvesoftware.Steam/data/Steam/steamapps/common/ELDEN RING/Game/SeamlessCoop/ersc_settings.ini",
+		"/home/rina/Downloads/mod-eldebring/DEN-Maps-3648-1-7-0-beta8-1723257186/ModFiles/DenMaps/1.7.0-beta8/PSModInstaller/PlayMod.ps1",
+		"/home/rina/.var/app/com.valvesoftware.Steam/data/Steam/steamapps/common/ELDEN RING/Game/mod_loader_log.txt",
+		"/home/rina/.var/app/com.valvesoftware.Steam/data/Steam/steamapps/common/ELDEN RING/Game/modengine.toml",
+		"/home/rina/.var/app/com.valvesoftware.Steam/data/Steam/steamapps/common/ELDEN RING/Game/mods/logs/modengine_2024-12-22.log",
+		"/home/rina/.var/app/com.valvesoftware.Steam/data/Steam/steamapps/common/ELDEN RING/Game/base/config.toml",
+		"/home/rina/Downloads/mod-eldebring/DEN-Maps-3648-1-7-0-beta8-1723257186/ModFiles/DenMaps/1.7.0-beta8/config_DenMaps_1.7.0-beta8.toml",
+		"/home/rina/Downloads/mod-eldebring/ME2_LazyLoad/steam_appid.txt",
+		"/home/rina/.var/app/com.valvesoftware.Steam/data/Steam/steamapps/common/ELDEN RING/Game/DenMaps/1.7.0-beta8/config_DenMaps_1.7.0-beta8.toml",
+		"/home/rina/.var/app/com.valvesoftware.Steam/data/Steam/steamapps/common/ELDEN RING/Game/mod/DenMaps/1.7.0-beta8/launch_eldenring_DenMaps_1.7.0-beta8.bat",
+		"/home/rina/.var/app/com.valvesoftware.Steam/data/Steam/steamapps/common/ELDEN RING/Game/logs/erse.log",
+		"/home/rina/.var/app/com.valvesoftware.Steam/data/Steam/steamapps/common/ELDEN RING/Game/Seamless/ersc_settings.ini",
+		"/home/rina/Downloads/mod-eldebring/DEN-Maps-3648-1-7-0-beta8-1723257186/ModFiles/DenMaps/1.7.0-beta8/launch_eldenring_DenMaps_1.7.0-beta8.bat",
+		"/home/rina/.var/app/com.valvesoftware.Steam/data/Steam/steamapps/common/ELDEN RING/Game/mods/ersc_settings.ini",
+		"/home/rina/Downloads/mod-eldebring/DEN-Maps-3648-1-7-0-beta8-1723257186/ModFiles/DenMaps/1.7.0-beta8/PSModInstaller/InstallerSettings.ini",
+		"/home/rina/Downloads/eldenring/ModEngine-2.1.0.0-win64/launchmod_eldenring.bat",
+		"/home/rina/.var/app/com.valvesoftware.Steam/data/Steam/steamapps/common/ELDEN RING/Game/mod_loader_config.ini",
+		"/home/rina/Downloads/mod-eldebring/ModFiles/DenMaps/1.7.0-beta18/config_DenMaps_1.7.0-beta18.toml",
+		"/home/rina/.var/app/com.valvesoftware.Steam/data/Steam/steamapps/common/ELDEN RING/Game/mods/hash.json",
+		"/home/rina/.var/app/com.valvesoftware.Steam/data/Steam/steamapps/common/ELDEN RING/Game/mod/DenMaps/1.7.0-beta8/config_DenMaps_1.7.0-beta8.toml",
+		"/home/rina/Downloads/mod-eldebring/Seamless Co-op v1.8.9-510-1-8-9-1727554514/SeamlessCoop/ersc_settings.ini",
+		"/home/rina/.var/app/com.valvesoftware.Steam/data/Steam/steamapps/common/ELDEN RING/Game/mods/logs/modengine_2024-12-21.log",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/src/core/user_input_register.cpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/src/util/io.cpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/include/ekg/util/io.hpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/include/ekg/core/task.hpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/include/ekg/core/memory.hpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/src/ui/abstract/ui_abstract.cpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/src/ui/abstract/ui_abstract_widget.cpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/include/ekg/ui/abstract/ui_abstract.hpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/src/core/task.cpp",
+		"/home/rina/Downloads/mod-eldebring/DEN-Maps-3648-1-7-0-beta8-1723257186/ModFiles/DenMaps/1.7.0-beta8/mod_files/hash.json",
+		"/home/rina/Downloads/eldenring/modengine.toml",
+		"/home/rina/Downloads/mod-eldebring/DEN-Maps-3648-1-7-0-beta8-1723257186/Play Mod.bat",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/include/ekg/layout/docknize.hpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/src/ui/frame/ui_frame_widget.cpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/src/ui/frame/ui_frame.cpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/src/util/gui.cpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/src/os/ekg_opengl.cpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/include/ekg/ui/frame/ui_frame.hpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/src/ui/label/ui_label_widget.cpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/src/layout/docknize.cpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/src/draw/font_renderer.cpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/src/ui/label/ui_label.cpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/include/ekg/ekg.hpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/src/ui/checkbox/ui_checkbox_widget.cpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/ekg-ui-library.sublime-project",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/CMakeLists.txt",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/include/ekg/core/runtime.hpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/include/ekg/core/user_input_register.hpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/include/ekg/ui/listbox/ui_listbox.hpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/include/ekg/ui/frame/ui_frame_widget.hpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/include/ekg/util/gui.hpp",
+		"/home/rina/.mozilla/firefox/chrome/userChrome.css",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/src/core/user_input_register.hpp",
+		"/run/media/rina/3F4A-3BA4/Rinainsano/Backup-codes-rinainsano.txt",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/.gitignore",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/src/service/handler.cpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/src/ui/listbox/ui_listbox.cpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/README.md",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/src/ui/button/ui_button.cpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/test/CMakeLists.txt",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/src/os/ekg_sdl.cpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/src/ui/textbox/ui_textbox_widget.cpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/src/ui/button/ui_button_widget.cpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/devlog/todo.txt",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/src/ui/checkbox/ui_checkbox.cpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/src/ui/scrollbar/ui_scrollbar_embedded_widget.cpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/src/ui/scrollbar/ui_scrollbar_widget.cpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/src/ui/slider/ui_slider.cpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/src/ui/textbox/ui_textbox.cpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/src/service/input.cpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/src/service/theme.cpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/docs/homepage.md",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/devlog/devlog.py",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/include/ekg/ui/textbox/ui_textbox.hpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/include/ekg/ui/slider/ui_slider.hpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/include/ekg/ui/label/ui_label.hpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/src/util/text.cpp",
+		"/home/rina/.config/sublime-text/Packages/User/ConditionalColorSchemes.sublime-settings",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/include/ekg/gpu/api.hpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/include/ekg/util/text.hpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/include/ekg/ui/scrollbar/ui_scrollbar_widget.hpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/include/ekg/service/input.hpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/include/ekg/ui/scrollbar/ui_scrollbar_embedded_widget.hpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/include/ekg/service/theme.hpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/include/ekg/draw/font_renderer.hpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/include/ekg/ui/slider/ui_slider_widget.hpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/CODE-OF-CONDUCT.md",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/include/ekg/ui/display.hpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/src/ui/display.cpp",
+		"/usr/include/c++/14.2.1/bits/basic_string.h",
+		"/usr/include/c++/14.2.1/string_view",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/include/ekg/animation/animation.hpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/include/ekg/ui/textbox/ui_textbox_widget.hpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/src/layout/scale.cpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/include/ekg/ui/button/ui_button_widget.hpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/include/ekg/ui/checkbox/ui_checkbox.hpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/include/ekg/ui/checkbox/ui_checkbox_widget.hpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/include/ekg/ui/combobox/ui_combobox.hpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/include/ekg/ui/combobox/ui_combobox_widget.hpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/include/ekg/os/platform.hpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/src/os/platform.cpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/include/ekg/ui/menu/ui_menu.hpp",
+		"/home/rina/Documents/vokegpu/ekg-ui-library/include/ekg/ui/menu/ui_menu_widget.hpp"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 728.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 236.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.LSP Log Panel":
+	{
+		"height": 0.0
+	},
+	"output.Terminus":
+	{
+		"height": 542.0
+	},
+	"output.diagnostics":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 505.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "portfolio.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"src/ui/listbox/ui_listbox_widget.cpp"
+			],
+			[
+				"com",
+				"devlog/commit.txt"
+			],
+			[
+				"listbox",
+				"include/ekg/ui/listbox/ui_listbox_widget.hpp"
+			],
+			[
+				"abstr",
+				"include/ekg/ui/abstract/ui_abstract_widget.hpp"
+			],
+			[
+				"comm",
+				"devlog/commit.txt"
+			],
+			[
+				"geom",
+				"include/ekg/util/geometry.hpp"
+			],
+			[
+				"sgo",
+				"test/src/ekg_gui_showcase_test.cpp"
+			],
+			[
+				"sl",
+				"src/ui/slider/ui_slider_widget.cpp"
+			],
+			[
+				"pop",
+				"src/ui/popup/ui_popup_widget.cpp"
+			],
+			[
+				"show",
+				"test/src/ekg_gui_showcase_test.cpp"
+			],
+			[
+				"is",
+				"src/ui/listbox/ui_listbox_widget.cpp"
+			],
+			[
+				"runt",
+				"src/core/runtime.cpp"
+			],
+			[
+				"alloc",
+				"src/gpu/allocator.cpp"
+			],
+			[
+				"all",
+				"include/ekg/gpu/allocator.hpp"
+			],
+			[
+				"draw",
+				"src/draw/draw.cpp"
+			],
+			[
+				"shgow",
+				"test/src/ekg_gui_showcase_test.cpp"
+			],
+			[
+				"ekg",
+				"src/ekg.cpp"
+			],
+			[
+				"sho",
+				"test/src/ekg_gui_showcase_test.cpp"
+			],
+			[
+				"main",
+				"test/autogui/auto_gui_main.py"
+			],
+			[
+				"io",
+				"src/util/io.cpp"
+			],
+			[
+				"dock",
+				"include/ekg/layout/docknize.hpp"
+			],
+			[
+				"abs",
+				"src/ui/abstract/ui_abstract_widget.cpp"
+			],
+			[
+				"task",
+				"include/ekg/core/task.hpp"
+			],
+			[
+				"mem",
+				"include/ekg/core/memory.hpp"
+			],
+			[
+				"user",
+				"src/core/user_input_register.cpp"
+			],
+			[
+				"istbox",
+				"src/ui/listbox/ui_listbox_widget.cpp"
+			],
+			[
+				"ekg.cp",
+				"src/ekg.cpp"
+			],
+			[
+				"ekg.hp",
+				"include/ekg/ekg.hpp"
+			],
+			[
+				"r",
+				"src/core/runtime.cpp"
+			],
+			[
+				"userint",
+				"src/core/user_input_register.cpp"
+			],
+			[
+				"runtime",
+				"include/ekg/core/runtime.hpp"
+			],
+			[
+				"font",
+				"src/draw/font_renderer.cpp"
+			],
+			[
+				"shiw",
+				"src/ui/checkbox/ui_checkbox_widget.cpp"
+			],
+			[
+				"sub",
+				"ekg-ui-library.sublime-project"
+			],
+			[
+				"run",
+				"include/ekg/core/runtime.hpp"
+			],
+			[
+				"shoe",
+				"test/src/ekg_gui_showcase_test.cpp"
+			],
+			[
+				"frame",
+				"include/ekg/ui/frame/ui_frame.hpp"
+			],
+			[
+				"make",
+				"CMakeLists.txt"
+			],
+			[
+				"showe",
+				"test/src/ekg_gui_showcase_test.cpp"
+			],
+			[
+				"label",
+				"src/ui/label/ui_label_widget.cpp"
+			],
+			[
+				"labelw",
+				"src/ui/label/ui_label_widget.cpp"
+			],
+			[
+				"labe",
+				"src/ui/label/ui_label.cpp"
+			],
+			[
+				"rinm",
+				"src/core/runtime.cpp"
+			],
+			[
+				"la",
+				"src/ui/label/ui_label.cpp"
+			],
+			[
+				"labelwi",
+				"src/ui/label/ui_label_widget.cpp"
+			],
+			[
+				"framewi",
+				"src/ui/frame/ui_frame_widget.cpp"
+			],
+			[
+				"cmak",
+				"CMakeLists.txt"
+			],
+			[
+				"sublime",
+				"ekg-ui-library.sublime-project"
+			],
+			[
+				"sghow",
+				"test/src/ekg_gui_showcase_test.cpp"
+			],
+			[
+				"ekg.",
+				"src/ekg.cpp"
+			],
+			[
+				"ekg_op",
+				"src/os/ekg_opengl.cpp"
+			],
+			[
+				"frmae",
+				"src/ui/frame/ui_frame.cpp"
+			],
+			[
+				"hand",
+				"src/service/handler.cpp"
+			],
+			[
+				"allo",
+				"src/gpu/allocator.cpp"
+			],
+			[
+				"layout",
+				"src/layout/docknize.cpp"
+			],
+			[
+				"readm",
+				"README.md"
+			],
+			[
+				"read",
+				"README.md"
+			],
+			[
+				"docm",
+				"devlog/commit.txt"
+			],
+			[
+				"dokc",
+				"include/ekg/layout/docknize.hpp"
+			],
+			[
+				"docknz",
+				"src/layout/docknize.cpp"
+			],
+			[
+				"SHOW",
+				"test/src/ekg_gui_showcase_test.cpp"
+			],
+			[
+				"goem",
+				"include/ekg/util/geometry.hpp"
+			],
+			[
+				"absr",
+				"include/ekg/ui/abstract/ui_abstract.hpp"
+			],
+			[
+				"ruint",
+				"src/ui/button/ui_button_widget.cpp"
+			],
+			[
+				"openg",
+				"src/os/ekg_opengl.cpp"
+			],
+			[
+				"dr",
+				"src/draw/draw.cpp"
+			],
+			[
+				"al",
+				"src/gpu/allocator.cpp"
+			],
+			[
+				"render",
+				"src/draw/font_renderer.cpp"
+			],
+			[
+				"but",
+				"src/ui/button/ui_button_widget.cpp"
+			],
+			[
+				"button",
+				"src/ui/button/ui_button_widget.cpp"
+			],
+			[
+				"butto",
+				"src/ui/button/ui_button_widget.cpp"
+			],
+			[
+				"ri",
+				"src/core/runtime.cpp"
+			],
+			[
+				"slider",
+				"src/ui/slider/ui_slider_widget.cpp"
+			],
+			[
+				"listbo",
+				"src/ui/listbox/ui_listbox_widget.cpp"
+			],
+			[
+				"ui_b",
+				"src/ui/button/ui_button.cpp"
+			],
+			[
+				"ui_abstr",
+				"src/ui/abstract/ui_abstract.cpp"
+			],
+			[
+				"gui",
+				"include/ekg/util/gui.hpp"
+			],
+			[
+				"check",
+				"src/ui/checkbox/ui_checkbox_widget.cpp"
+			],
+			[
+				"frae",
+				"include/ekg/ui/frame/ui_frame.hpp"
+			],
+			[
+				"butt",
+				"src/ui/button/ui_button.cpp"
+			],
+			[
+				"todo",
+				"devlog/todo.txt"
+			],
+			[
+				"s how",
+				"test/src/ekg_gui_showcase_test.cpp"
+			],
+			[
+				"geome",
+				"include/ekg/util/geometry.hpp"
+			],
+			[
+				"lay",
+				"src/layout/docknize.cpp"
+			],
+			[
+				"frmaw",
+				"include/ekg/ui/frame/ui_frame_widget.hpp"
+			],
+			[
+				"framew",
+				"include/ekg/ui/frame/ui_frame_widget.hpp"
+			],
+			[
+				"e_",
+				"src/os/ekg_opengl.cpp"
+			],
+			[
+				"sdl",
+				"src/os/ekg_sdl.cpp"
+			],
+			[
+				"kg_sd",
+				"src/os/ekg_sdl.cpp"
+			],
+			[
+				"subl",
+				"ekg-ui-library.sublime-project"
+			],
+			[
+				"BUTT",
+				"src/ui/button/ui_button_widget.cpp"
+			],
+			[
+				"shpw",
+				"test/src/ekg_gui_showcase_test.cpp"
+			],
+			[
+				"do",
+				"include/ekg/layout/docknize.hpp"
+			],
+			[
+				"layoou",
+				"include/ekg/layout/docknize.hpp"
+			],
+			[
+				"DOCK",
+				"include/ekg/layout/docknize.hpp"
+			],
+			[
+				"in",
+				"src/service/input.cpp"
+			],
+			[
+				"theme",
+				"src/service/theme.cpp"
+			],
+			[
+				"how",
+				"test/src/ekg_gui_showcase_test.cpp"
+			],
+			[
+				"ock",
+				"include/ekg/layout/docknize.hpp"
+			],
+			[
+				"aba",
+				"src/ui/abstract/ui_abstract_widget.cpp"
+			],
+			[
+				"do k",
+				"include/ekg/layout/docknize.hpp"
+			],
+			[
+				"sohw",
+				"test/src/ekg_gui_showcase_test.cpp"
+			],
+			[
+				"shoew",
+				"test/src/ekg_gui_showcase_test.cpp"
+			],
+			[
+				"sgow",
+				"test/src/ekg_gui_showcase_test.cpp"
+			],
+			[
+				"wid",
+				"src/ui/abstract/ui_abstract_widget.cpp"
+			],
+			[
+				"textbox",
+				"src/ui/textbox/ui_textbox_widget.cpp"
+			],
+			[
+				"textob",
+				"src/ui/textbox/ui_textbox_widget.cpp"
+			],
+			[
+				"text",
+				"src/util/text.cpp"
+			],
+			[
+				"han",
+				"src/service/handler.cpp"
+			],
+			[
+				"opem",
+				"docs/homepage.md"
+			],
+			[
+				"api",
+				"include/ekg/gpu/api.hpp"
+			],
+			[
+				"cmake",
+				"test/CMakeLists.txt"
+			],
+			[
+				"input",
+				"src/service/input.cpp"
+			],
+			[
+				"ope",
+				"src/os/ekg_opengl.cpp"
+			],
+			[
+				"cma",
+				"CMakeLists.txt"
+			],
+			[
+				"framw",
+				"src/ui/frame/ui_frame_widget.cpp"
+			],
+			[
+				"frammeiw",
+				"src/ui/frame/ui_frame_widget.cpp"
+			],
+			[
+				"_",
+				"src/os/ekg_opengl.cpp"
+			],
+			[
+				"ekg_sl",
+				"src/os/ekg_sdl.cpp"
+			],
+			[
+				"op",
+				"src/os/ekg_opengl.cpp"
+			],
+			[
+				"buttow",
+				"src/ui/button/ui_button_widget.cpp"
+			],
+			[
+				"gome",
+				"include/ekg/util/geometry.hpp"
+			],
+			[
+				"slide",
+				"src/ui/slider/ui_slider_widget.cpp"
+			],
+			[
+				"laou",
+				"src/layout/docknize.cpp"
+			],
+			[
+				"sliderwi",
+				"src/ui/slider/ui_slider_widget.cpp"
+			],
+			[
+				"sliderw",
+				"src/ui/slider/ui_slider_widget.cpp"
+			],
+			[
+				"sslider",
+				"src/ui/slider/ui_slider_widget.cpp"
+			],
+			[
+				"sli",
+				"src/ui/slider/ui_slider_widget.cpp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/vokegpu/cowtapult/cowtapult.sublime-project"
+			],
+			[
+				"under",
+				"~/Documents/vokegpu/undermother/undermother.sublime-project"
+			],
+			[
+				"c",
+				"~/Documents/vokegpu/cowtapult/cowtapult.sublime-project"
+			],
+			[
+				"ekg",
+				"~/Documents/vokegpu/ekg-ui-library/ekg-ui-library.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"lsp_show_inlay_hints": false
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 307.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}

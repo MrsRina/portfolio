@@ -1,0 +1,31 @@
+{
+	"settings":
+	{
+		"tab_size": 2,
+		"LSP":
+		{
+    		"clangd":
+    		{
+      			"initializationOptions":
+      			{
+      				"clangd.compile-commands-dir": "./cmake-build"
+      			}
+      		}
+      	},
+      	"SublimeLinter.linters.clangtidy.compile_commands": "./cmake-build",
+	},
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+	"build_systems":
+	[
+		{
+			"name": "Linux Build-&-Test Clang",
+			"shell_cmd":
+				"cd $folder && cmake -S . -B ./cmake-build/ -G Ninja -DCMAKE_CXX_COMPILER=/usr/bin/clang++ -DCMAKE_EXPORT_COMPILE_COMMANDS=1 && cmake --build ./cmake-build"
+		}
+	]
+}
