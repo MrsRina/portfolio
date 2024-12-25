@@ -2,6 +2,21 @@ cmake_minimum_required(VERSION 3.31.3)
 
 message(STATUS "Initializing project build")
 
+string(
+  REGEX MATCH
+  "/emcc"
+  compiler_filename
+  ${CMAKE_CXX_COMPILER}
+)
+
+if (WASM_EMCC_BUILD OR ${compiler_filename} STREQUAL "/emcc")
+  message(STATUS "Compiler ID: ${compiler_filename}, WASM build type")
+elseif()
+  message(FATAL_ERROR "Could not build application, no WASM CXX was found")
+endif()
+
+message(STATUS "Current toolchain: ${CMAKE_CXX_COMPILER_ID}")
+
 if (WIN32)
   # do nothing
 elseif(LINUX)
@@ -9,7 +24,12 @@ elseif(LINUX)
 
   set(
     application_linker_flags
-    SDL2main SDL2 GL GLEW ekg
+    SDL2 GL GLEW freetype ekg
+  )
+
+  set(
+    application_emcc_args
+    "--bind -s WASM=1 -s USE_SDL=2 -s USE_FREETYPE=1"
   )
 
   set(
@@ -43,4 +63,9 @@ add_executable(
 target_link_libraries(
   portfolio
   ${application_linker_flags}
+)
+
+set_target_properties(
+  portfolio
+  PROPERTIES LINK_FLAGS ${application_emcc_args}
 )

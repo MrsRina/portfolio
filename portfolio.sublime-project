@@ -25,7 +25,7 @@
 		{
 			"name": "Linux Build-&-Test Clang",
 			"shell_cmd":
-				"cd $folder && cmake -S . -B ./cmake-build/ -G Ninja -DCMAKE_CXX_COMPILER=/usr/bin/clang++ -DCMAKE_EXPORT_COMPILE_COMMANDS=1 && cmake --build ./cmake-build"
+				"cd $folder && emcmake cmake -S . -B ./cmake-build/ -G Ninja -DCMAKE_CXX_COMPILER=/home/rina/emsdk/emsdk/upstream/emscripten/emcc -DCMAKE_EXPORT_COMPILE_COMMANDS=1 && cmake --build ./cmake-build"
 		}
 	]
 }
