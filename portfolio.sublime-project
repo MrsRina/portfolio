@@ -1,31 +1,30 @@
 {
-	"settings":
-	{
-		"tab_size": 2,
-		"LSP":
-		{
-    		"clangd":
-    		{
-      			"initializationOptions":
-      			{
-      				"clangd.compile-commands-dir": "./cmake-build"
-      			}
-      		}
-      	},
-      	"SublimeLinter.linters.clangtidy.compile_commands": "./cmake-build",
-	},
-	"folders":
-	[
-		{
-			"path": "."
-		}
-	],
-	"build_systems":
-	[
-		{
-			"name": "Linux Build-&-Test Clang",
-			"shell_cmd":
-				"cd $folder && emcmake cmake -S . -B ./cmake-build/ -G Ninja -DCMAKE_CXX_COMPILER=/home/rina/emsdk/emsdk/upstream/emscripten/emcc -DCMAKE_EXPORT_COMPILE_COMMANDS=1 && cmake --build ./cmake-build"
-		}
-	]
+    "settings":
+    {
+        "tab_size": 2,
+        "LSP":
+        {
+            "clangd":
+            {
+                "initializationOptions":
+                {
+                    "clangd.compile-commands-dir": "./cmake-build"
+                }
+            }
+        }
+    },
+    "folders":
+    [
+        {
+            "path": "."
+        }
+    ],
+    "build_systems":
+    [
+        {
+            "name": "Linux Build-&-Test Clang",
+            "shell_cmd":
+                "cd $folder && emcmake cmake -S . -B ./cmake-build/ -G Ninja -DCMAKE_CXX_COMPILER=/home/rina/emsdk/emsdk/upstream/emscripten/emcc -DCMAKE_EXPORT_COMPILE_COMMANDS=1 && cmake --build ./cmake-build"
+        }
+    ]
 }

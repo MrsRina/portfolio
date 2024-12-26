@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>meow</title>
+  </head>
+  <body>
+    <canvas id="canvas" oncontextmenu="event.preventDefault()"></canvas>
+    <script type='text/javascript'>
+      var Module = {
+        canvas: (function() { return document.getElementById('canvas'); })()
+      };
+    </script>
+    <script src="./build/linux-wasm/portfolio.js"></script>
+  </body>
+</html>
+
+

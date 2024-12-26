@@ -11,7 +11,7 @@ string(
 
 if (WASM_EMCC_BUILD OR ${compiler_filename} STREQUAL "/emcc")
   message(STATUS "Compiler ID: ${compiler_filename}, WASM build type")
-elseif()
+else()
   message(FATAL_ERROR "Could not build application, no WASM CXX was found")
 endif()
 
@@ -29,12 +29,12 @@ elseif(LINUX)
 
   set(
     application_emcc_args
-    "--bind -s WASM=1 -s USE_SDL=2 -s USE_FREETYPE=1"
+    "--bind -s WASM=1 -s USE_SDL=2 -s USE_FREETYPE=1 -s OFFSCREEN_FRAMEBUFFER=1 -s USE_WEBGL2=1"
   )
 
   set(
     EXECUTABLE_OUTPUT_PATH
-    "../build/linux"
+    "../build/linux-wasm"
   )
 endif()
 
@@ -53,6 +53,7 @@ project(
 
 include_directories(
   src/
+  /usr/include/freetype2
 )
 
 add_executable(
