@@ -6,5 +6,4 @@
 *.hh linguist-language=C++
 *.tpp linguist-language=C++
 
-# Mark all other files as vendored
 * linguist-vendored
