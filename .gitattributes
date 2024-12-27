@@ -5,4 +5,3 @@
 *.cxx linguist-language=C++
 *.hh linguist-language=C++
 *.tpp linguist-language=C++
-* linguist-vendored
