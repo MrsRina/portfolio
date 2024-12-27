@@ -1,42 +1,52 @@
 cmake_minimum_required(VERSION 3.31.3)
 
+include(stream.cmake)
+
 message(STATUS "Initializing project build")
 
-string(
-  REGEX MATCH
-  "/emcc"
-  compiler_filename
-  ${CMAKE_CXX_COMPILER}
+if (CMAKE_TOOLCHAIN_FILE)
+  string(
+    REGEX MATCH
+    "/Emscripten"
+    compiler_filename
+    ${CMAKE_TOOLCHAIN_FILE}
+  )
+
+  if (WASM_EMCC_BUILD OR ${compiler_filename} STREQUAL "/Emscripten")
+    message(STATUS "Compiler ID: ${compiler_filename}, WASM build type")
+  else()
+    message(FATAL_ERROR "Could not build application, no WASM CXX was found")
+  endif()
+endif()
+
+message(STATUS "Current toolchain: ${CMAKE_CXX_COMPILER}")
+
+set(
+  application_external_dependencies_linker_flags
+  ekg
 )
 
-if (WASM_EMCC_BUILD OR ${compiler_filename} STREQUAL "/emcc")
-  message(STATUS "Compiler ID: ${compiler_filename}, WASM build type")
-else()
-  message(FATAL_ERROR "Could not build application, no WASM CXX was found")
-endif()
+set(
+  EXECUTABLE_OUTPUT_PATH
+  "../"
+)
 
-message(STATUS "Current toolchain: ${CMAKE_CXX_COMPILER_ID}")
+project(
+  portfolio
+  VERSION 1.0.0
+)
 
-if (WIN32)
-  # do nothing
-elseif(LINUX)
-  # do things
+add_library(SDL2_SDL2 INTERFACE)
+target_link_options(SDL2_SDL2 INTERFACE -sUSE_SDL=2)
+add_library(SDL2::SDL2 ALIAS SDL2_SDL2)
 
-  set(
-    application_linker_flags
-    SDL2 GL GLEW freetype ekg
-  )
+add_library(Freetype INTERFACE)
+target_link_options(Freetype INTERFACE -sUSE_FREETYPE=1)
 
-  set(
-    application_emcc_args
-    "--bind -s WASM=1 -s USE_SDL=2 -s USE_FREETYPE=1 -s OFFSCREEN_FRAMEBUFFER=1 -s USE_WEBGL2=1"
-  )
+add_library(webgpu INTERFACE)
+target_link_options(webgpu INTERFACE -sUSE_WEBGPU=1)
 
-  set(
-    EXECUTABLE_OUTPUT_PATH
-    "../build/linux-wasm"
-  )
-endif()
+download_depedencies()
 
 message(STATUS "Looking for source files...")
 
@@ -46,14 +56,14 @@ file(
   "./src/*.cpp"
 )
 
-project(
-  portfolio
-  VERSION 1.0.0
+include_directories(
+  src
+  /usr/include/freetype2
 )
 
-include_directories(
-  src/
-  /usr/include/freetype2
+message(
+  STATUS
+  "Direct included `/usr/include/freetype2`"
 )
 
 add_executable(
@@ -63,10 +73,13 @@ add_executable(
 
 target_link_libraries(
   portfolio
-  ${application_linker_flags}
+  SDL2::SDL2 webgpu Freetype
+  ${application_external_dependencies_linker_flags}
 )
 
 set_target_properties(
   portfolio
-  PROPERTIES LINK_FLAGS ${application_emcc_args}
+  PROPERTIES
+  LINK_FLAGS "-sWASM=1 --preload-file ../assets --bind"
+  CXX_STANDARD 17
 )
