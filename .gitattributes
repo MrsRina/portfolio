@@ -1,4 +1,3 @@
-# Match C++ files and keep them in statistics
 *.cpp linguist-language=C++
 *.hpp linguist-language=C++
 *.h linguist-language=C++
@@ -7,5 +6,4 @@
 *.hh linguist-language=C++
 *.tpp linguist-language=C++
 
-# Mark all other files as vendored
 * linguist-vendored
