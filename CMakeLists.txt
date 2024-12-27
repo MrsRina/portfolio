@@ -73,7 +73,7 @@ add_executable(
 
 target_link_libraries(
   portfolio
-  SDL2::SDL2 webgpu Freetype
+  SDL2::SDL2 webgpu Freetype sdl2webgpu
   ${application_external_dependencies_linker_flags}
 )
 

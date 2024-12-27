@@ -8,8 +8,8 @@
 application::app_context *application::p_app {};
 
 void application::mainloop() {
-  while (SDL_PollEvent(application::p_app->p_sdl_event)) {
-    if (application::p_app->p_sdl_event->type == SDL_QUIT) {
+  while (SDL_PollEvent(&application::p_app->sdl_event)) {
+    if (application::p_app->sdl_event.type == SDL_QUIT) {
       return;
     }
   }
@@ -28,12 +28,21 @@ int32_t main() {
   application::p_app->p_sdl_win = (
     SDL_CreateWindow(
       "Pompom",
-      SDL_WINDOWPOS_CENTERED,
-      SDL_WINDOWPOS_CENTERED,
+      SDL_WINDOWPOS_UNDEFINED,
+      SDL_WINDOWPOS_UNDEFINED,
       1280,
       720,
       0
     )
+  );
+
+  gpu::context_create_info context_cinfo {
+    .p_tag = "pompom"
+  };
+  
+  gpu::model_create_context(
+    &application::p_app->gpu_context,
+    &context_cinfo
   );
 
   emscripten_set_main_loop(
@@ -42,7 +51,6 @@ int32_t main() {
     1
   );
 
-  ekg::quit();
   SDL_Quit();
 
   return 1;
