@@ -1,7 +1,7 @@
 #ifndef GPU_MODEL_HPP
 #define GPU_MODEL_HPP
 
-#include <webgpu/webgpu.h>
+#include <webgpu/webgpu_cpp.h>
 #include "io/state.hpp"
 
 namespace gpu {

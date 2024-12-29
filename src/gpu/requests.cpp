@@ -34,6 +34,7 @@ io::result gpu::request_adapter(
         p_user_data->result = io::results::SUCCESS;
       } else {
         p_user_data->result = io::results::FAILED;
+        io_log("Failed to create adapter object")
       }
 
       p_user_data->request_ended = true;

@@ -46,7 +46,10 @@ target_link_options(Freetype INTERFACE -sUSE_FREETYPE=1)
 add_library(webgpu INTERFACE)
 target_link_options(webgpu INTERFACE -sUSE_WEBGPU=1)
 
-download_depedencies()
+add_library(gles3 INTERFACE)
+target_link_options(webgpu INTERFACE -sUSE_WEBGL2=1)
+
+#download_depedencies()
 
 message(STATUS "Looking for source files...")
 
@@ -73,13 +76,13 @@ add_executable(
 
 target_link_libraries(
   portfolio
-  SDL2::SDL2 webgpu Freetype sdl2webgpu
+  SDL2::SDL2 Freetype GLEW
   ${application_external_dependencies_linker_flags}
 )
 
 set_target_properties(
   portfolio
   PROPERTIES
-  LINK_FLAGS "-sWASM=1 --preload-file ../assets --bind"
+  LINK_FLAGS "-sWASM=1 -sUSE_WEBGL2=1 -sASYNCIFY=1 --preload-file ../assets --bind"
   CXX_STANDARD 17
 )
